@@ -1,0 +1,16 @@
+  315  git add .
+  316  git status
+  317  git commit -m "Добавлены тестовые строки"
+  318  git status
+  319  git log
+  320  git log --oneline
+  321  git push
+  322  git push --set-upstream origin feature
+  323  git branch -vv
+  324  git commit --amend
+  325  git checkout main
+  326  git status
+  327  git merge feature
+  328  git status
+  329  git push
+  330  git status
